@@ -82,7 +82,7 @@ Select a device and date from the controls and click "Load Data" to display the 
 The map will display markers for each GPS point and draw a polyline connecting them.
 The data list below the map will show the details of each GPS point.
 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the UNISA_YOGYAKARTA License.
 
 Contributions
 Contributions are welcome! Feel free to open an issue or submit a pull request.
