@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.controls label {
+    font-size: 16px;
+}
+
+#map-layer {
+    width: 100%;
+    height: 500px;
+}
+
+#data-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+#data-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.device-color {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin-right: 8px;
+}
